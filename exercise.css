@@ -1,0 +1,51 @@
+header {
+  width: auto;
+  height: 50px;
+  background-color: #FF9A4B;
+}
+
+.main-content {
+  width: 960px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+footer {
+  width: auto;
+  height: 50px;
+  background-color: #AAAAAA;
+}
+
+.box {
+  width: 300px;
+  background-color: #EEEEEE;
+  position: relative;
+  margin-right: 30px;
+  padding: 10px;
+}
+
+.flow01 {
+  background-image: url(img/flow01.png);
+  
+}
+
+.flow02 {
+  
+}
+
+.flow03 {
+  
+}
+
+.stepnumber {
+  color: white;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  background-color: #FF9A4B;
+  
+}
